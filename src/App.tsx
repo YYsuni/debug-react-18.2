@@ -3,7 +3,7 @@ import Button from './components/Button'
 
 function App() {
 	return (
-		<div className='container mx-auto flex flex-col h-full'>
+		<div className='container mx-auto flex flex-col h-full px-8 py-8'>
 			<Header />
 			<main className='flex-1 py-6'>
 				Hello world!
